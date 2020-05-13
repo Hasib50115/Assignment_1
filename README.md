@@ -8,3 +8,5 @@
 ![Assignment-1 task_1 4](https://user-images.githubusercontent.com/64782883/81813773-b2045100-9549-11ea-9796-bdd7a8dcdbc1.PNG)
 <!-- Assignment_1 task_2.1 -->
 ![Assignment-1 task_2 1](https://user-images.githubusercontent.com/64782883/81813928-e6780d00-9549-11ea-893c-f05dcb761d0b.PNG)
+<!-- Assignment_1 task_2.3-->
+![Assignment-1 task_2 3](https://user-images.githubusercontent.com/64782883/81814131-2f2fc600-954a-11ea-90c2-76b417177b0c.PNG)
